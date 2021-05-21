@@ -6,4 +6,4 @@ import ComponenteApp from './ComponenteApp'
 
 const divRoot = document.querySelector('#root');
 
-ReactDOM.render(<ComponenteApp  Valor_Contador = {0}/>,divRoot);
+ReactDOM.render(<ComponenteApp/>,divRoot);
